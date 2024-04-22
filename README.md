@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`]
 
-# E-commerce Website
+# E-commerce (Get The Best Price)
 
 ## Description
 
